@@ -3,7 +3,7 @@
 <!-- My Template Image  -->
 <!-- ![MastHead](https://github.com/manumishra12/manumishra12/blob/main/Intro.jpg) -->
 
-<h1 >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  alt="Waving hand animated gif" height="45" width="45" />, I'm Manu Mishra
+<h1 >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  alt="Waving hand animated gif" height="45" width="45" />, I'm Aditya Agrawal
 </h1>
 
  
