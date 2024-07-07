@@ -1,3 +1,11 @@
+<h1 >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  alt="Waving hand animated gif" height="45" width="45" />, I'm Aditya Agrawal
+</h1>
+
+ 
+ 
+<!--About Me -->
+A 4th-year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai @VIT.
+
 # 💫 About Me:
 👨🏻‍🎓 Vellore Institute of Technology, Chennai<br>🤖 Web & UI/UX Enthusiast<br>⚒️ Focusing on Contributing to Open Source and several projects<br>👨‍💻 Learning Java, React, Flutter <br>🛸 Robotics enthusiast<br>📸 Photographer
 
