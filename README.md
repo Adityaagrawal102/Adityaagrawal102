@@ -2,7 +2,8 @@
 </h1>
 
  
- 
+
+
 <!--About Me -->
 A 4th-year student pursuing Bachelors in Electrical and Electronic Engineering from Vellore Institute of Technology Chennai @VIT.
 
